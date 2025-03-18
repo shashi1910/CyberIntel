@@ -1,0 +1,7 @@
+# Ignore virtual environment
+myenv/
+
+# Ignore Streamlit config files
+.streamlit/
+
+test.py
