@@ -1,5 +1,7 @@
 # CyberIntel: Cybersecurity Threat Intelligence Dashboard
 
+![Screenshot](screenshot.png)
+
 ## Live Demo
 🔗 [Check out CyberIntel Live](https://shashi1910-cyberintel-app-gqswqt.streamlit.app/)
 
